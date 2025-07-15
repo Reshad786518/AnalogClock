@@ -137,7 +137,7 @@
   box-shadow: 0 0 12px rgba(231, 76, 60, 0.9);
   z-index: 1;
 }
-
+/* Digital Clock */
 .digital-clock {
   font-size: 2rem;
   font-weight: bold;
